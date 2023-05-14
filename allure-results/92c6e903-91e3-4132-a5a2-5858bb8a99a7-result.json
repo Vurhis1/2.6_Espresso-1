@@ -1,0 +1,53 @@
+{
+    "name": "checkingSettingsElementAndClickTest",
+    "start": 1684053475157,
+    "stop": 1684053486734,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "92c6e903-91e3-4132-a5a2-5858bb8a99a7",
+    "historyId": "9d1b2cf046693c61000b8c08dc4c6093",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.IntentTest.checkingSettingsElementAndClickTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.IntentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkingSettingsElementAndClickTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.IntentTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(540)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
